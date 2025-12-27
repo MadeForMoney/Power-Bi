@@ -49,7 +49,7 @@ This dashboard is useful for:
 └── README.md
 ```
 
-![Image Name](Images/)
+![Image Name](Images/Screenshot 2025-12-27 112256.png)
 <img src="Images/dashboard_overview.png" width="800"/>
 <p align="center">
   <img src="Images/dashboard_overview.png" width="800"/>
