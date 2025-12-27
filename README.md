@@ -10,6 +10,7 @@ This dashboard is useful for:
 - Recruiters and stakeholders comparing roles
 
 ---
+![Image Name](Images/SS1.png)
 
 ## 🧩 Key Features
 - Total job count analysis (~479K records)
@@ -49,10 +50,6 @@ This dashboard is useful for:
 └── README.md
 ```
 
-![Image Name](Images/SS1.png)
-<img src="Images/dashboard_overview.png" width="800"/>
-<p align="center">
-  <img src="Images/dashboard_overview.png" width="800"/>
-</p>
+
 
 
