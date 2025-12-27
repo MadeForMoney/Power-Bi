@@ -43,10 +43,16 @@ This dashboard is useful for:
 
 ## 📂 Repository Structure
 ```text
-├── Data/
-│   └── dataset.csv
-├── Dashboard/
-│   └── Data_Jobs_Dashboard.pbix
+│── Data_Jobs_Dashboard.pbix
 ├── Images/
 │   └── dashboard_overview.png
 └── README.md
+```
+
+![Image Name](Images/)
+<img src="Images/dashboard_overview.png" width="800"/>
+<p align="center">
+  <img src="Images/dashboard_overview.png" width="800"/>
+</p>
+
+
